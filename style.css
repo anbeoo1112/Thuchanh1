@@ -1,0 +1,43 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #CCCCCC;
+}
+a{
+    text-decoration: none;
+    color: #ffffff;
+}
+a:hover{
+    color: gold;
+}
+.bar{
+    background-color: #444;
+    list-style: none;
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+}
+li{
+    display: inline-block;
+    font-size: 24px;
+    line-height: 40px;
+    height: 40px;
+    padding: 20px;
+}
+section{
+    margin-left: 20px;
+}
+h1{
+    font-size: 28px;
+}
+.p1{
+    font-style: italic;
+}
+.p2{
+    font-size: 24px;
+}
+footer{
+    background-color: #444;
+    color: #fff;
+    text-align: center;
+}
